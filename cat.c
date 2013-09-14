@@ -5,3 +5,4 @@ tiger
 leopard
 jaguar
 cheetah
+kitty
