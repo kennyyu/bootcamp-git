@@ -1,4 +1,5 @@
-bootcamp-git
-============
+HCS Bootcamp: Git
+=================
+By Kenny Yu
 
-Introduction to git
+See the [wiki](https://github.com/kennyyu/bootcamp-git/wiki)!
