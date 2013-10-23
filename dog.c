@@ -11,3 +11,5 @@ charmelon
 charizard
 ivysaur
 venasaur
+wartortle
+blastoise
